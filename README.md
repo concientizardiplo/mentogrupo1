@@ -1,7 +1,7 @@
 # Mentogrupo1
 GRUPO 1 :
-Martín acosta 
-Agustin Abdala 
+Martín Acosta,
+Agustin Abdala, 
 Juan Mateo Ramos
 
 ## Notebooks
